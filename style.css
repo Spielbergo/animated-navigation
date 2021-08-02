@@ -135,7 +135,7 @@ nav li:nth-child(5) {
   }
 }
 
-/* Slide in animation with delay for each nav item */
+/* Slide out animation with delay for each nav item */
 .slide-out-1 {
   animation: slide-out 0.3s linear 0.5s both;
 }
